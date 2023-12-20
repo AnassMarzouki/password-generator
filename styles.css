@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+div {
+    display:block;
+    background-color: black;
+    color:greenyellow;
+    padding:20px 40px;
+    text-align: center;
+    margin-left:0px;
+    margin-right: 0px;
+}
+
+#generate {
+    background-color: #000000;
+    color:greenyellow;
+    font-size: large;
+    padding:4px 10px;
+    border:2px solid greenyellow;
+}
+
+#copy {
+    background-color: greenyellow;
+    color:black;
+    font-size: large;
+    padding:4px 10px;
+    border:2px solid greenyellow;
+    font-weight: bolder;
+}
+
+#generate:hover{
+    background-color: greenyellow;
+    color:black;
+}
+
+#pass-1 {
+    border: 2px solid greenyellow;
+    padding: 6px;
+
+}
+
+#credit {
+    text-align:center;
+}
